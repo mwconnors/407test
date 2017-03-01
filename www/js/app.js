@@ -71,6 +71,7 @@ angular.module('starter', ['ionic', 'starter.controllers', 'starter.services'])
     }
   })
 
+    //some change
   .state('tab.account', { //TEXT QUESTION
     url: '/account',
     params: {'correct': null},
